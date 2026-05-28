@@ -1,7 +1,5 @@
-package lesson1.homework.task2;
+package lesson1.homework1.task2;
 
-
-import lesson1.homework.task2.User;
 
 import java.util.ArrayList;
 import java.util.List;

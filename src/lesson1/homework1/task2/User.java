@@ -1,4 +1,4 @@
-package lesson1.homework.task2;
+package lesson1.homework1.task2;
 
 public class User{
 

@@ -1,4 +1,4 @@
-package lesson1.homework.task1;
+package lesson1.homework1.task1;
 
 public class User{
     private int userId;
