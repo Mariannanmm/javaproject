@@ -11,7 +11,7 @@ public class Main {
         booksList.add(new Book(2, 230, "JDiamond", "Third chimpanzee"));
         booksList.add(new Book(3, 437, "JNHarari", "Nexus"));
 
-        System.out.println("***usersList***");
+        System.out.println("***booksList***");
         for (Book book : booksList) {
             System.out.println(book);
         }

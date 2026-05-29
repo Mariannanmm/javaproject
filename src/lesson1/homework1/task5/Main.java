@@ -10,7 +10,7 @@ public class Main {
         carsList.add(new Car("Skoda", "kamiq", 2024, "darkGrey", "automatic", "petrol"));
         carsList.add(new Car("Audi", "A3", 2017, "white", "automatic", "diesel"));
 
-        System.out.println("***usersList***");
+        System.out.println("***carList***");
         for (Car car : carsList) {
             System.out.println(car);
         }

@@ -11,7 +11,7 @@ public class Main {
         dogsList.add(new Dog("Larisa", "Chihuahua", 12, 1.2));
         dogsList.add(new Dog("Mykola", "noBreed", 4, 65));
 
-        System.out.println("***usersList***");
+        System.out.println("***dogsList***");
         for (Dog dog : dogsList) {
             System.out.println(dog);
         }
