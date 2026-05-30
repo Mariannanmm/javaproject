@@ -1,7 +1,7 @@
-package lesson2.demo8;
+package lesson2.demo9;
 
 public class Wrap {
-    private int x;
+    static int x;
 
     public Wrap(int x) {this.x = x;}
 
@@ -9,12 +9,13 @@ public class Wrap {
 
     public void setX(int x) {this.x = x;}
 
-    class AddOperations {
+    static class AddOperations {
+
         public void addOne(){x = x +1;}
         public void addTwo() {x = x +2;}
     }
 
-    class RemoveOperations {
+    static class RemoveOperations {
 
         public void removeOne() {
             x = x - 1;
@@ -23,4 +24,6 @@ public class Wrap {
             x = x - 2;
         }
     }
+
+
 }
