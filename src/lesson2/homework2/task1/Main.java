@@ -1,7 +1,7 @@
 package lesson2.homework2.task1;
 
 public class Main {
-    public static void main(String[] arg) {
+    public static void main(String[] args) {
         // 1. coordinates
         Geo geo = new Geo("-37.3159", "81.1496");
 

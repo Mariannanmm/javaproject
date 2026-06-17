@@ -1,7 +1,7 @@
 package lesson2.homework2.task3;
 
 public class Main {
-    public static void main(String[] arg) {
+    public static void main(String[] args) {
         Skill[] vasyaSkills = new Skill[3];
         vasyaSkills[0] = new Skill("java", 10);
         vasyaSkills[1] = new Skill("js", 10);
